@@ -1,0 +1,20 @@
+{
+  "name": "gulp-four-starter",
+  "version": "1.0.0",
+  "description": "A starter folder for projects using Gulp V4 build scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Galinsky",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PaulGalinsky/gulp-four-starter.git"
+  }
+}
